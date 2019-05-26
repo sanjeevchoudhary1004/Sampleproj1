@@ -13,3 +13,12 @@ z="""lokeshit"""
 print((z))
 print(type(z))
 print(len(z))
+
+m='''lokeshit
+python
+django
+odddo
+restapi'''
+print(m)
+print(type(m))
+print(len(m))
