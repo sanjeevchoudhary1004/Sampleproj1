@@ -8,3 +8,8 @@ y='''lokeshit'''
 print((y))
 print(type(y))
 print(len(y))
+
+z="""lokeshit"""
+print((z))
+print(type(z))
+print(len(z))
