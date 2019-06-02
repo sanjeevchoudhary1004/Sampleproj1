@@ -1,5 +1,5 @@
 class Test:
-    def __init__ (self):
+    def __init__(self):
      print("in constructor of test")
     def display(self):
        print("Welcome")
